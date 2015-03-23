@@ -1,0 +1,2 @@
+This project goal is to extend opencv C++ interface. It hold some key image processing function that currently (version 2.4.5) do not exists.
+All the code was written in a STL handwritten and use a fairly simple. Like all STL files, all the code is written in .h files only, thus you include only what you need, when you need it.
